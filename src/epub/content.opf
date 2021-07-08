@@ -8,9 +8,9 @@
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
-		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
@@ -47,9 +47,10 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of P. G. Wodehouse’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was an incredibly prolific writer who sold short stories to publications around the world throughout his career. His stories range from the casino’s of Monte Carlo to the dance halls of New York, often taking detours into rural English life and they bring us a wide variety of distinctive characters as well as their trials, tribulations and follies.&lt;/p&gt;
+			&lt;p&gt;The stories in this volume consist of most of what is available in public domain with the exception of some stories which were never anthologized and those collected in other volumes (&lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories"&gt;Jeeves Stories&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href ="https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories"&gt;Ukridge Stories&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;School Stories&lt;/a&gt;&lt;/i&gt;). They are ordered by the date they first appeared in magazine form.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
@@ -57,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/8176</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/8190</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/8164</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.44626</dc:source>
+		<dc:source>https://archive.org/details/dli.bengal.10689.9319</dc:source>
 		<dc:source>https://archive.org/details/TheManWithTwoLeftFeet</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eb0a7dfcd96</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eacd403203fe</dc:source>
@@ -66,19 +67,18 @@
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_short-fiction</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78089036</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Henri Martin</dc:contributor>
 		<meta property="file-as" refines="#artist">Martin, Henri</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Henri-Jean Guillaume Martin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henri-Jean_Guillaume_Martin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85102022</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">id.loc.gov/authorities/names/n85102022</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne L. Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne L.</meta>
@@ -96,12 +96,12 @@
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">edc</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">edc</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
@@ -134,7 +134,7 @@
 		<item href="text/sir-agravaine.xhtml" id="sir-agravaine.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/something-to-worry-about.xhtml" id="something-to-worry-about.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-best-sauce.xhtml" id="the-best-sauce.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-goal-keeper-and-the-plutocrat.xhtml" id="the-goal-keeper-and-the-plutocrat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-goalkeeper-and-the-plutocrat.xhtml" id="the-goalkeeper-and-the-plutocrat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-good-angel.xhtml" id="the-good-angel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-making-of-macs.xhtml" id="the-making-of-macs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-the-maid-and-the-miasma.xhtml" id="the-man-the-maid-and-the-miasma.xhtml" media-type="application/xhtml+xml"/>
@@ -166,7 +166,7 @@
 		<itemref idref="deep-waters.xhtml"/>
 		<itemref idref="misunderstood.xhtml"/>
 		<itemref idref="rough-hew-them-how-we-will.xhtml"/>
-		<itemref idref="the-goal-keeper-and-the-plutocrat.xhtml"/>
+		<itemref idref="the-goalkeeper-and-the-plutocrat.xhtml"/>
 		<itemref idref="the-good-angel.xhtml"/>
 		<itemref idref="the-man-upstairs.xhtml"/>
 		<itemref idref="the-man-the-maid-and-the-miasma.xhtml"/>
