@@ -51,3 +51,7 @@ p span.i3{
 	text-indent: -1em;
 	padding-left: 4em;
 }
+
+#the-goalkeeper-and-the-plutocrat blockquote p{
+	text-indent: 0em;
+}
