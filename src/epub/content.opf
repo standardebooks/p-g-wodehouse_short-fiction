@@ -50,7 +50,7 @@
 		<dc:description id="description">A collection of P. G. Wodehouse’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was an incredibly prolific writer who sold short stories to publications around the world throughout his career. His stories range from the casino’s of Monte Carlo to the dance halls of New York, often taking detours into rural English life and they bring us a wide variety of distinctive characters as well as their trials, tribulations and follies.&lt;/p&gt;
-			&lt;p&gt;The stories in this volume consist of most of what is available in public domain with the exception of some stories which were never anthologized and those collected in other volumes (&lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories"&gt;Jeeves Stories&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href ="https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories"&gt;Ukridge Stories&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;School Stories&lt;/a&gt;&lt;/i&gt;). They are ordered by the date they first appeared in magazine form.&lt;/p&gt;
+			&lt;p&gt;The stories in this volume consist of most of what is available in public domain with the exception of some stories which were never anthologized and those collected in other volumes (&lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories"&gt;Jeeves Stories&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories"&gt;Ukridge Stories&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;School Stories&lt;/a&gt;&lt;/i&gt;). They are ordered by the date they first appeared in magazine form.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
@@ -61,7 +61,6 @@
 		<dc:source>https://archive.org/details/dli.bengal.10689.9319</dc:source>
 		<dc:source>https://archive.org/details/TheManWithTwoLeftFeet</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eb0a7dfcd96</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eacd403203fe</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eb0a7dfcd96c</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID3ee94d6537a44</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
