@@ -62,6 +62,7 @@ p span.i3{
 
 #concealed-art blockquote:first-of-type p{
 	text-align: center;
+	text-indent: 0;
 }
 
 #concealed-art blockquote:first-of-type p:first-of-type{
