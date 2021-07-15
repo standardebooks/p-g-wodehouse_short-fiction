@@ -56,6 +56,15 @@ p span.i3{
 	text-align: center;
 }
 
-#concealed-art blockquote:first-of-type hr{
-	width: 2em;
+#concealed-art blockquote:first-of-type p + p{
+	margin-top: .5em;
+}
+
+#concealed-art blockquote:first-of-type p + p::before{
+	border-top: 1px solid;
+	content: "";
+	max-width: 4em;
+	padding-top: .5em;
+	display: block;
+	margin: auto;
 }
