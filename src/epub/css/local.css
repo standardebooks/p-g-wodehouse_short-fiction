@@ -52,8 +52,20 @@ p span.i3{
 	text-indent: 0;
 }
 
+#when-doctors-disagree header p:nth-child(1){
+	font-variant: small-caps;
+}
+
+#when-doctors-disagree header p:nth-child(2){
+	font-style: italic;
+}
+
 #concealed-art blockquote:first-of-type p{
 	text-align: center;
+}
+
+#concealed-art blockquote:first-of-type p:first-of-type{
+	font-variant: small-caps;
 }
 
 #concealed-art blockquote:first-of-type p + p{
