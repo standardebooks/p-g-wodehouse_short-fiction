@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-15T18:23:43Z</dc:date>
+		<meta property="dcterms:modified">2021-07-15T18:23:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,6 +24,7 @@
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
@@ -49,8 +50,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of P. G. Wodehouse’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was an incredibly prolific writer who sold short stories to publications around the world throughout his career. His stories range from the casino’s of Monte Carlo to the dance halls of New York, often taking detours into rural English life and they bring us a wide variety of distinctive characters as he tells the stories of their trials, tribulations and follies.&lt;/p&gt;
-			&lt;p&gt;The stories in this volume consist of most of what is available in public domain with the exception of some stories which were never anthologized and those collected in other volumes (&lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories"&gt;Jeeves Stories&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories"&gt;Ukridge Stories&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;School Stories&lt;/a&gt;&lt;/i&gt;). They are ordered by the date they first appeared in magazine form.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was an incredibly prolific writer who sold short stories to publications around the world throughout his career. The settings of his stories range from the casinos of Monte Carlo to the dance halls of New York, often taking detours into rural English life, where we follow his wide variety of distinctive characters and their trials, tribulations and follies.&lt;/p&gt;
+			&lt;p&gt;The stories in this volume consist of most of what is available in U.S. public domain, with the exception of some stories which were never anthologized, and stories that are collected in themed volumes (&lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories"&gt;Jeeves Stories&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/ukridge-stories"&gt;Ukridge Stories&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/school-stories"&gt;School Stories&lt;/a&gt;&lt;/i&gt;). They are ordered by the date they first appeared in magazine form.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6768</dc:source>
@@ -63,8 +64,8 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eb0a7dfcd96</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eacd403203fe</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID3ee94d6537a44</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">203675</meta>
+		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_short-fiction</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
@@ -104,6 +105,10 @@
 		<meta property="file-as" refines="#producer-2">Vermeer, L. A.</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://readingwithapencil.com</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
