@@ -131,6 +131,8 @@
 		<item href="text/disentangling-old-duggie.xhtml" id="disentangling-old-duggie.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-alcala.xhtml" id="in-alcala.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lord-emsworth-acts-for-the-best.xhtml" id="lord-emsworth-acts-for-the-best.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mister-potter-takes-a-rest-cure.xhtml" id="mister-potter-takes-a-rest-cure.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/misunderstood.xhtml" id="misunderstood.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/one-touch-of-nature.xhtml" id="one-touch-of-nature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/out-of-school.xhtml" id="out-of-school.xhtml" media-type="application/xhtml+xml"/>
@@ -201,6 +203,8 @@
 		<itemref idref="the-man-with-two-left-feet.xhtml"/>
 		<itemref idref="a-sea-of-troubles.xhtml"/>
 		<itemref idref="absent-treatment.xhtml"/>
+		<itemref idref="mister-potter-takes-a-rest-cure.xhtml"/>
+		<itemref idref="lord-emsworth-acts-for-the-best.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
