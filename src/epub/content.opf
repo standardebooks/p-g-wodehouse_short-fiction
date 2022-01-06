@@ -64,7 +64,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eacd403203fe</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID3ee94d6537a44</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100492999</dc:source>
-		<meta property="se:word-count">203675</meta>
+		<meta property="se:word-count">216898</meta>
 		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_short-fiction</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
