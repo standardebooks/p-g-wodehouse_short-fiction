@@ -46,6 +46,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of P. G. Wodehouse’s short fiction.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was an incredibly prolific writer who sold short stories to publications around the world throughout his career. The settings of his stories range from the casinos of Monte Carlo to the dance halls of New York, often taking detours into rural English life, where we follow his wide variety of distinctive characters and their trials, tribulations and follies.&lt;/p&gt;
