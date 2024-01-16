@@ -71,13 +71,13 @@
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Sir Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">id.loc.gov/authorities/names/n78089036</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Henri Martin</dc:contributor>
 		<meta property="file-as" refines="#artist">Martin, Henri</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Henri-Jean Guillaume Martin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henri-Jean_Guillaume_Martin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">id.loc.gov/authorities/names/n85102022</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85102022</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne L. Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne L.</meta>
